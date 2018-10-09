@@ -1,0 +1,10 @@
+section#A {width: 5%; height: 10%; background-color: #0000ff; float: left;}
+section#B {width: 95%; height: 10%; background-color: #1af81a; float:right;}
+section#D {width: 50px; height: 50px; background-color: #1d6f1c; float:right; border-style: hidden; margin: 5px; border-radius: 50%}
+section#E {width: 50px; height: 50px; background-color: #fdff1c; float:right; border-style: hidden; margin: 5px; border-radius: 50%}
+section#F {width: 50px; height: 50px; background-color: #7d6ffc; float:right; border-style: hidden; margin: 5px; border-radius: 50%}
+section#G {height:100%; background-color: hsl(197, 69%, 65%); width: 75%; float: left;}
+section#H {width: 25%; height: 100%; background-color: #ee30ff; float: right;}
+
+div#footContainer {background-color: coral;}
+div#toolContainer {background-color: crimson; height: 20%;}
